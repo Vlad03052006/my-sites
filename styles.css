@@ -21,3 +21,6 @@ footer{text-align: center;padding: 60}
 
 .yellow{background-color: #ff9904;color: #fff}
 .blue{background-color: #0399ff;color: #fff}
+.Tagd:hover{
+  color:yelllow;
+}
