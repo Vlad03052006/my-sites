@@ -21,6 +21,13 @@ footer{text-align: center;padding: 60}
 
 .yellow{background-color: #ff9904;color: #fff}
 .blue{background-color: #0399ff;color: #fff}
-.Tagd:hover{
-  color:yelllow;
+.transition{
+  transition: background-color 0.5s ease;
+}
+.yellow:hover{
+  background-color: black
+}
+.blue:hover{
+  background-color: #fff;
+  color:black;
 }
